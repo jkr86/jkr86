@@ -16,6 +16,6 @@ Skills: REACT / JS / HTML / CSS / ANGULAR
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jkr86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/junaid-elahi-95a618187/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/johny_baba_86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jdr86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11947455)  
 
-![GitHub metrics](https://metrics.lecoq.io/jkr86)  
+![GitHub metrics](https://metrics.lecoq.io/jdr86)  
 
 ![Profile views](https://gpvc.arturio.dev/jkr86)
