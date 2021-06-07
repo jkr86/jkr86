@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is **Junaid Elahi**
 #### I am a React Js developer and team lead at Alpha Squad
-![I am a React Js developer and team lead at Alpha Squad](https://www.indivaragroup.com/wp-content/uploads/2020/03/Front-end-developer.png)
+![I am a React Js developer and team lead at Alpha Squad](https://images-ext-1.discordapp.net/external/ZvJe_eajFbpz0qTKey2WlC2dOq5Hd2itmlizD3TtU08/https/i.ibb.co/BPyF8tb/Screenshot-20210326-052030.png?width=320&height=150)
 
 I develop and implement user interface components using React.js concepts and workflows such as Redux, Flux, and Webpack. I have in-depth knowledge of JavaScript and React concepts, excellent front-end coding skills, and a good understanding of progressive web applications. Ultimately, I am able to design and build modern user interface components to enhance application performance.
 
