@@ -1,5 +1,5 @@
-### Hi there 👋, my name is **Junaid Elahi**
-#### I am a JAM Stack developer and team lead at Alpha Squad
+### Hey there, my name is **Junaid Elahi**
+#### I am a JAM Stack developer.
 ![I am a JAM Stack developer and team lead at Alpha Squad](https://i.ibb.co/BPyF8tb/Screenshot-20210326-052030.png)
 
 I develop and implement user interface components using React.js concepts and workflows such as Redux, Flux, and Webpack. I have in-depth knowledge of JavaScript and React concepts, excellent front-end coding skills, and a good understanding of progressive web applications. Ultimately, I am able to design and build modern user interface components to enhance application performance.
